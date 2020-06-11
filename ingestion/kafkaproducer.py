@@ -5,7 +5,7 @@ import boto3
 
 # Reading the file with Boto3
 # Get a handle on s3
-s3 = boto3.resource('s3',aws_access_key_id='AKIAISTHKMBCMF3OFR2A',aws_secret_access_key='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')
+s3 = boto3.resource('s3',aws_access_key_id='A******',aws_secret_access_key='****')
 # Get a handle on the bucket that holds the file
 response = s3.Object(bucket_name = 'myawsinsightbucket', key = "data/test-aws-insight.csv").get()
 # Read the contents of the file and split it into a list of lines
