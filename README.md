@@ -14,8 +14,7 @@ One line description.
 ## Introduction
 
 ## Architecture
-![alt text](https://github.com/pujithareddy554/InsightDEProject/master/images/pipeline.png?raw=true)
-
+![system_png](.images/pipeline.PNG)
 ## Dataset
 
 ## Engineering challenges
