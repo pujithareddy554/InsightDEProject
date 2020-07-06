@@ -14,7 +14,7 @@ One line description.
 ## Introduction
 
 ## Architecture
-<img src="https://github.com/pujithareddy554/InsightDEProject/master/images/pipeline.png" />
+![alt text](https://github.com/pujithareddy554/InsightDEProject/master/images/pipeline.png?raw=true)
 
 ## Dataset
 
