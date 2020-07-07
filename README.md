@@ -14,7 +14,7 @@ One line description.
 ## Introduction
 
 ## Architecture
-![system_png](.images/pipeline.PNG)
+![pipeline_png](.images/pipeline.PNG)
 ## Dataset
 
 ## Engineering challenges
